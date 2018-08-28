@@ -9,4 +9,4 @@ If you know how to use the inspect element, skip to [here](#copy-the-code) and c
 
 ---
 
-![alt text](http://u.cubeupload.com/Mycra/oLSGxB.gif "Find a Website")
+<img src="http://u.cubeupload.com/Mycra/oLSGxB.gif" />

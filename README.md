@@ -9,4 +9,14 @@ If you know how to use the inspect element, skip to [here](#copy-the-code) and c
 
 ---
 
+### Find a Website
 <img src="http://u.cubeupload.com/Mycra/oLSGxB.gif" />
+
+### Open the Inspect Element
+<img src="" />
+
+### Or Alternitively open the Inspect Element using the keyboard shortcut
+<img src="http://u.cubeupload.com/Mycra/9MFRO1.gif" />
+```
+ctrl + Shift + i
+```
